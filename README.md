@@ -26,8 +26,8 @@
 
 ## 📫 Get in Touch
 
-- **GitHub:** [github.com/udaysingh-dev](#)
-- **LinkedIn:** [linkedin.com/in/udaysingh-dev/](#)
+- **GitHub:** [github.com/smritishukla-dev](#)
+- **LinkedIn:** [https://www.linkedin.com/in/smriticsengineer//](#)
 - **Email:** smriticsengineer@gmail.com
 
 Feel free to reach out if you'd like to collaborate on a project, discuss tech, or just say hi!
